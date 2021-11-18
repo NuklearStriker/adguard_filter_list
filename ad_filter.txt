@@ -1,3 +1,4 @@
 ||adsafeprotected.com^
 ||unityads.unity3d.com^
 ||isprog.com^
+||ad.doubleclick.net^
