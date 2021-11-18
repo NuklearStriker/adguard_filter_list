@@ -1,2 +1,2 @@
-0.0.0.0 pixel.adsafeprotected.com
-0.0.0.0 auiopt.unityads.unity3d.com
+||adsafeprotected.com^
+||unityads.unity3d.com^
