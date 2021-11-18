@@ -3,3 +3,5 @@
 ||isprog.com^
 ||ad.doubleclick.net^
 ||supersonicads.com^
+||boombit.cloud^
+||vungle.com^
