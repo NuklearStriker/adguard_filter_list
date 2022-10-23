@@ -5,3 +5,4 @@
 ||supersonicads.com^
 ||boombit.cloud^
 ||vungle.com^
+||3gppnetwork.org^
